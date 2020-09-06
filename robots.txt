@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /img/
+Disallow: /js/
+Disallow: /scss/
+Disallow: /css
+Disallow: /fonts
+Disallow: /img
+Disallow: /js
+Disallow: /scss
+Disallow: /CNAME
+Disallow: /LICENSE
+Disallow: /.git/
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+Disallow: /impressum
+Disallow: /datenschutz
+Disallow: /sitemap.xml
+Disallow: /sitemap
+
+Sitemap: https://kaaaxcreators.de/sitemap.xml

@@ -18,5 +18,9 @@ Disallow: /impressum
 Disallow: /datenschutz
 Disallow: /sitemap.xml
 Disallow: /sitemap
+Disallow: /yandex_30f2c203627f0022.html
+Disallow: /yandex_30f2c203627f0022
+Disallow: /googledadfb7caeffcc7b7.html
+Disallow: /googledadfb7caeffcc7b7
 
 Sitemap: https://kaaaxcreators.de/sitemap.xml

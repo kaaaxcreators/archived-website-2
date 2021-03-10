@@ -1,7 +1,7 @@
 var s = document.body.firstChild;
 var gtm = document.createElement('div');
 gtm.setAttribute("id", "footer-cookie");
-gtm.innerHTML="<span id=\"description\"> Wir nutzen Cookies, um unsere Dienste zu erbringen und zu verbessern. Mit Nutzung dieser Seite akzeptieren Sie Cookies. <a href=\"https://kaaaxcreators.de/datenschutz.html\">Datenschutzerklärung</a> </span> <span id=\"accept\"><a href=\"javascript:void(0)\" target=\"_self\" title=\"Akzeptieren\">Akzeptieren</a></span>"; 
+gtm.innerHTML="<span id=\"description\"> We use cookies to provide and improve our services. By using this site you accept cookies. <a href=\"https://kaaaxcreators.de/datenschutz.html\">Privacy Policy</a> </span> <span id=\"accept\"><a href=\"javascript:void(0)\" target=\"_self\" title=\"Akzeptieren\">Accept</a></span>"; 
 s.parentNode.insertBefore(gtm, s);
 
 

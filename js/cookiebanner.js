@@ -19,7 +19,7 @@ var footerCookie = document.querySelector("#footer-cookie");
 var footerCookieAccept = document.querySelector("#accept");
 
 if (document.cookie.indexOf("AcceptCookie=") == -1) {
-    footerCookie.style.display = "block";
+    footerCookie.style.display = "flex";
 }
 
 footerCookieAccept.onclick = function (e) {
